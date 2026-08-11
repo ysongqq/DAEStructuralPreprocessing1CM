@@ -1,0 +1,3 @@
+[submodule "external/DAEPreprocessingToolbox"]
+	path = external/DAEPreprocessingToolbox
+	url = https://github.com/OptMist-Tokyo/DAEPreprocessingToolbox.git

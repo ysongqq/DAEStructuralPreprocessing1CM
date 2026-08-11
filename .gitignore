@@ -1,0 +1,7 @@
+.DS_Store
+*.mexa64
+*.mexmaci64
+*.mexmaca64
+*.mexw64
+*.o
+*.asv
